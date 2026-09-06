@@ -1,0 +1,132 @@
+assessed_at,food,temperature,storage_hours,expiry_days,cooling_status
+2026-09-01 06:00,Milk,3.2,12.0,6.5,Operating normally
+2026-09-01 06:15,Heavy cream,3.4,18.0,9.0,Operating normally
+2026-09-01 06:30,Eggs,3.6,24.0,20.0,Operating normally
+2026-09-01 06:45,Liquid pasteurized eggs,3.0,12.0,2.5,Operating normally
+2026-09-01 07:00,Chicken,2.8,8.0,2.0,Operating normally
+2026-09-01 07:15,Turkey,3.0,10.0,2.0,Operating normally
+2026-09-01 07:30,Fish,1.2,6.0,2.0,Operating normally
+2026-09-01 07:45,Salmon fillet,1.0,8.0,2.0,Operating normally
+2026-09-01 08:00,Ground beef,2.5,10.0,1.5,Operating normally
+2026-09-01 08:15,Beef steak,3.0,14.0,3.5,Operating normally
+2026-09-01 08:30,Cooked rice,3.0,4.0,3.5,Operating normally
+2026-09-01 08:45,Cooked pasta,3.2,6.0,3.5,Operating normally
+2026-09-01 09:00,Leafy vegetables,3.8,14.0,6.0,Operating normally
+2026-09-01 09:15,Spinach & salad mix,3.5,12.0,4.5,Operating normally
+2026-09-01 09:30,Frozen meat,-20.5,72.0,28.0,Operating normally
+2026-09-01 09:45,Frozen poultry,-21.0,48.0,88.0,Operating normally
+2026-09-01 11:00,Tofu,3.2,16.0,6.0,Operating normally
+2026-09-01 11:30,Tempeh,3.5,24.0,9.0,Operating normally
+2026-09-01 12:00,Prepared sandwich,3.5,6.0,2.5,Operating normally
+2026-09-01 13:00,Pizza leftovers,3.6,8.0,3.5,Operating normally
+2026-09-01 14:00,Yogurt,3.4,18.0,6.5,Operating normally
+2026-09-01 14:30,Soft cheese,3.6,24.0,6.0,Operating normally
+2026-09-01 15:00,Hard cheese,3.8,48.0,28.0,Operating normally
+2026-09-01 16:00,Shrimp,1.5,8.0,2.0,Operating normally
+2026-09-01 16:30,Oysters (live shellstock),1.8,12.0,6.5,Operating normally
+2026-09-01 17:00,Crab meat,1.4,10.0,2.0,Operating normally
+2026-09-01 18:00,Soup or stew,3.8,8.0,3.5,Operating normally
+2026-09-01 18:30,Casserole / lasagna,3.5,12.0,3.5,Operating normally
+2026-09-01 20:00,Ice cream,-21.0,48.0,29.0,Operating normally
+2026-09-01 20:30,Frozen vegetables,-19.5,60.0,58.0,Operating normally
+2026-09-02 06:00,Milk,3.5,36.0,5.5,Operating normally
+2026-09-02 06:30,Chicken,3.4,32.0,1.5,Operating normally
+2026-09-02 07:00,Fish,1.8,30.0,1.5,Operating normally
+2026-09-02 07:30,Tuna steak,1.5,24.0,1.5,Operating normally
+2026-09-02 08:00,Tofu,3.2,20.0,6.0,Operating normally
+2026-09-02 08:30,Hummus,3.5,24.0,6.0,Operating normally
+2026-09-02 09:00,Berries,3.8,16.0,4.0,Operating normally
+2026-09-02 09:30,Cut fruit,3.6,12.0,2.5,Operating normally
+2026-09-02 10:00,Cut melons (cantaloupe/watermelon),3.8,14.0,2.5,Operating normally
+2026-09-02 11:00,Deli meat,3.6,22.0,3.5,Operating normally
+2026-09-02 11:30,Hot dogs (opened),3.8,24.0,6.0,Operating normally
+2026-09-02 12:00,Ground beef,4.8,26.0,1.0,Unknown / not checked
+2026-09-02 13:00,Ground poultry,5.0,24.0,1.0,Unknown / not checked
+2026-09-02 14:00,Shellfish,2.8,24.0,1.5,Unknown / not checked
+2026-09-02 15:00,Smoked fish,2.4,48.0,12.0,Operating normally
+2026-09-02 16:00,Cooked rice,4.5,28.0,2.5,Operating normally
+2026-09-02 17:00,Fresh pasta,3.5,20.0,3.5,Operating normally
+2026-09-02 18:00,Beef steak,3.2,24.0,3.5,Operating normally
+2026-09-02 18:30,Beef roast,3.5,36.0,4.0,Operating normally
+2026-09-02 19:00,Pork chops,3.4,24.0,3.5,Operating normally
+2026-09-02 19:30,Lamb chops,3.2,20.0,3.5,Operating normally
+2026-09-02 20:00,Frozen vegetables,-19.5,96.0,58.0,Operating normally
+2026-09-02 20:30,Frozen prepared meals,-20.0,72.0,28.0,Operating normally
+2026-09-03 06:00,Chicken,5.5,44.0,0.8,Operating normally
+2026-09-03 06:30,Turkey,5.2,42.0,0.8,Operating normally
+2026-09-03 07:00,Fish,3.5,42.0,0.8,Unknown / not checked
+2026-09-03 07:30,Salmon fillet,3.4,40.0,0.8,Unknown / not checked
+2026-09-03 08:00,Milk,5.2,60.0,4.5,Operating normally
+2026-09-03 08:30,Heavy cream,5.0,72.0,7.0,Operating normally
+2026-09-03 09:00,Cooked food,7.5,48.0,1.5,Cooling failure reported
+2026-09-03 09:30,Cooked poultry,7.8,44.0,1.5,Cooling failure reported
+2026-09-03 10:00,Ground beef,8.2,38.0,0.2,Cooling failure reported
+2026-09-03 10:30,Ground poultry,8.5,36.0,0.2,Cooling failure reported
+2026-09-03 11:00,Chicken,8.8,52.0,0.2,Cooling failure reported
+2026-09-03 11:30,Turkey,8.6,50.0,0.2,Cooling failure reported
+2026-09-03 12:00,Fish,6.2,48.0,0.2,Cooling failure reported
+2026-09-03 12:30,Shrimp,6.5,44.0,0.2,Cooling failure reported
+2026-09-03 13:00,Soup or stew,9.4,52.0,1.0,Cooling failure reported
+2026-09-03 13:30,Egg salad,8.8,48.0,0.5,Cooling failure reported
+2026-09-03 14:00,Plant-based meat,7.6,40.0,1.5,Cooling failure reported
+2026-09-03 15:00,Prepared sandwich,8.5,40.0,1.0,Cooling failure reported
+2026-09-03 16:00,Casserole / lasagna,9.0,48.0,1.0,Cooling failure reported
+2026-09-03 17:00,Frozen meat,-14.2,120.0,26.0,Cooling failure reported
+2026-09-03 18:00,Frozen poultry,-13.8,96.0,86.0,Cooling failure reported
+2026-09-03 19:00,Ice cream,-12.5,96.0,27.0,Cooling failure reported
+2026-09-04 06:00,Chicken,3.0,12.0,2.0,Operating normally
+2026-09-04 06:15,Turkey,2.8,10.0,2.0,Operating normally
+2026-09-04 06:30,Fish,1.0,10.0,2.0,Operating normally
+2026-09-04 06:45,Salmon fillet,1.2,12.0,2.0,Operating normally
+2026-09-04 07:00,Milk,3.8,84.0,3.5,Operating normally
+2026-09-04 07:30,Sour cream,3.6,48.0,12.0,Operating normally
+2026-09-04 08:00,Ground beef,2.8,14.0,1.5,Operating normally
+2026-09-04 08:30,Beef steak,3.0,20.0,3.5,Operating normally
+2026-09-04 09:00,Yogurt,3.6,66.0,4.5,Operating normally
+2026-09-04 09:30,Cottage cheese,3.5,40.0,5.5,Operating normally
+2026-09-04 10:00,Frozen meat,-21.5,144.0,25.0,Operating normally
+2026-09-04 10:30,Frozen seafood,-21.0,120.0,55.0,Operating normally
+2026-09-04 11:00,Ice cream,-20.0,120.0,26.0,Operating normally
+2026-09-04 12:00,Soft cheese,3.5,36.0,5.5,Operating normally
+2026-09-04 13:00,Bacon,3.8,48.0,5.0,Operating normally
+2026-09-04 14:00,Fresh pasta,3.2,24.0,3.0,Operating normally
+2026-09-04 15:00,Cooked beans & lentils,3.5,20.0,3.5,Operating normally
+2026-09-04 16:00,Pork,3.4,30.0,3.0,Operating normally
+2026-09-04 17:00,Fresh herbs,3.8,36.0,5.5,Operating normally
+2026-09-04 18:00,Mushrooms,3.8,48.0,5.0,Operating normally
+2026-09-04 19:00,Broccoli & cauliflower,3.6,30.0,5.5,Operating normally
+2026-09-04 20:00,Butter,4.0,120.0,26.0,Operating normally
+2026-09-05 06:00,Milk,3.6,108.0,2.5,Operating normally
+2026-09-05 06:30,Eggs,3.8,120.0,16.0,Operating normally
+2026-09-05 07:00,Turkey,3.0,20.0,1.5,Operating normally
+2026-09-05 07:30,Chicken,3.2,28.0,1.5,Operating normally
+2026-09-05 08:00,Cut fruit,4.8,30.0,1.5,Operating normally
+2026-09-05 08:30,Cut melons (cantaloupe/watermelon),4.5,28.0,1.5,Operating normally
+2026-09-05 09:00,Mayonnaise (opened),4.0,240.0,50.0,Operating normally
+2026-09-05 10:00,Leafy vegetables,5.2,80.0,3.0,Operating normally
+2026-09-05 10:30,Spinach & salad mix,5.0,72.0,2.0,Operating normally
+2026-09-05 12:00,Fish,1.4,28.0,1.5,Operating normally
+2026-09-05 12:30,Tuna steak,1.6,26.0,1.5,Operating normally
+2026-09-05 14:00,Shrimp,1.8,26.0,1.5,Operating normally
+2026-09-05 15:00,Crab meat,1.5,24.0,1.5,Operating normally
+2026-09-05 16:00,Cooked rice,3.6,48.0,2.0,Operating normally
+2026-09-05 17:00,Cooked pasta,3.4,44.0,2.0,Operating normally
+2026-09-05 18:00,Soup or stew,4.2,24.0,3.0,Operating normally
+2026-09-05 19:00,Pizza leftovers,3.8,36.0,2.5,Operating normally
+2026-09-05 20:00,Tofu,3.4,48.0,5.0,Operating normally
+2026-09-05 20:30,Tempeh,3.5,60.0,7.5,Operating normally
+2026-09-06 06:00,Milk,4.2,132.0,1.5,Operating normally
+2026-09-06 06:30,Chicken,4.0,42.0,0.5,Operating normally
+2026-09-06 07:00,Fish,1.6,40.0,0.8,Operating normally
+2026-09-06 07:30,Ground beef,3.2,34.0,0.5,Operating normally
+2026-09-06 08:00,Deli meat,6.2,80.0,0.8,Operating normally
+2026-09-06 09:00,Cooked food,3.8,70.0,1.0,Operating normally
+2026-09-06 10:00,Prepared sandwich,5.8,68.0,0.2,Operating normally
+2026-09-06 11:00,Tofu,3.8,72.0,4.0,Operating normally
+2026-09-06 12:00,Berries,6.0,96.0,0.8,Unknown / not checked
+2026-09-06 13:00,Leafy vegetables,4.5,110.0,2.0,Operating normally
+2026-09-06 14:00,Frozen meat,-19.0,216.0,22.0,Operating normally
+2026-09-06 15:00,Frozen poultry,-19.5,192.0,80.0,Operating normally
+2026-09-06 16:00,Ice cream,-18.5,192.0,23.0,Operating normally
+2026-09-06 17:00,Soft cheese,4.2,84.0,3.5,Operating normally
+2026-09-06 18:00,Hard cheese,4.0,168.0,23.0,Operating normally
